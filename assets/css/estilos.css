@@ -1,6 +1,9 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+.navbar-brand{
+  font-weight: 700;
+}
 
 /* Hero Section */
 
@@ -8,7 +11,21 @@ body {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
+}
+
+.parrafo1{
+  color: #e9208f;
+  width: 700;
+}
+
+.btn-info {
+  background-color: #e9208f;
+  border-color: #e9208f;
+}
+
+.display-1{
+  color: #e9208f;
 }
 
 /* Mis trabajos */
