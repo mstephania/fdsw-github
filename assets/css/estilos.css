@@ -37,6 +37,9 @@ body {
   background-position: center;
 }
 
+.trabajos{
+  background-color: #e9208f;
+}
 /* Contacto */
 
 #Contacto form label {
